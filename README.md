@@ -29,8 +29,8 @@ Don't you just hate it when people don't include pictures of visual based progra
 Yeah. Me too.
 
 ### Input
-
+![Input Image](https://github.com/Gopiandcode/image-masker/raw/master/images/input_example.png)
 ### Output
-
+![Output Image](https://github.com/Gopiandcode/image-masker/raw/master/images/output_image.png)
 
 Sweet and sexy.
